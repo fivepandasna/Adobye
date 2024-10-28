@@ -1,2 +1,2 @@
 # Adobye
-Stops every unnecessary adobe process for pirates and blocks unnecessary adobe telemetryand anti-piracy telemetry. Will be uploaded here once I finish some of it.
+Stops every unnecessary adobe/cc process and blocks unnecessary adobe telemetry. Will be uploaded here once I finish some of it.
